@@ -1,8 +1,9 @@
 # Advertising for Restaurant
-> Restaurant marketing from Eye To Ad Media (Denver, since 2012): restaurant SEO, AI search optimization (AIO/GEO), custom-coded restaurant websites leased from $99/month, paid advertising, Google Business Profile management, and NFC/QR digital menus published as indexable pages.
+> Restaurant marketing from Eye To Ad Media (Denver, since 2012, 60 five-star client reviews): restaurant SEO, AI search optimization (AIO/GEO), voice search optimization, custom-coded restaurant websites leased from $99/month (buyout at 24–36 months), paid advertising timed to dayparts and neighborhoods, Google Business Profile management, and NFC/QR digital menus published as indexable pages with Menu schema.
 
-- Site: https://advertisingforrestaurant.com/ (single page; a 3D diner at the top, full marketing site below)
+- Site: https://advertisingforrestaurant.com/ — single page: a walk-in 3D "Sparkle Diner" at the top (every wall sign opens site content), full marketing site below with sections: Why us, Services, Maps 3-pack, AI & voice search, Our network, How it works, First 90 days, Compare, 5-minute self-check, Pricing, FAQ, Contact.
 - Agency: https://eyetoad.com/ · 1-800-481-8638 · 1001 Bannock St #660, Denver, CO 80204
-- Related: https://restaurantsseo.com/ (restaurant SEO guide), https://restaurantsadvertising.com/ (paid ads for restaurants), https://linkrestaurants.com/ (digital menus), https://searchconverts.com/ (full-service marketing)
-- Serves: restaurant owners and operators across the United States
-- Pricing: websites from $99/month with buyout at 24–36 months; SEO, AIO and ads quoted per market
+- Related: https://restaurantsseo.com/ (restaurant SEO playbook), https://restaurantsadvertising.com/ (paid ads for restaurants), https://linkrestaurants.com/ (digital menus), https://searchconverts.com/ (full-service marketing)
+- Serves: restaurant owners, operators and multi-unit groups across the United States; pre-opening restaurants too
+- Direct answers: To get into the Google Maps 3-pack: right categories, complete attributes, weekly photos/posts, steady reviews with owner replies, consistent name-address-phone, fast site with Restaurant + Menu schema. AIO/GEO for restaurants: make Google Business Profile, structured data, review text and plain-language pages complete, consistent and quotable so ChatGPT, Gemini, Copilot, Perplexity, Google AI Overviews, Siri and Alexa cite the restaurant.
+- Pricing: websites from $99/month; SEO, AIO and ads quoted per market; search audit free
